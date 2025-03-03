@@ -9,3 +9,6 @@ print(f'{name}, Your {age}? You are very old')
 
 if age > 25:
     print("Wow you are very old")
+
+if age >= 13 and age <=19:
+     print("You are a teenager like me!!")
