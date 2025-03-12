@@ -16,14 +16,14 @@
 #if age >= 13 or age <=19:
      #print("You might be a teenager like me") 
 
-umbrella = False
-sunny = True
+# umbrella = False
+# sunny = True
 
-if umbrella and sunny :
-    print("You think it's going to rain.")
-elif not umbrella and sunny 
-    print("You thimk you don't need an umbrella.")
-elif umbrella and not sunny
-    print("It must be raining.")
-elif not umbrella and not sunny
-    print("You must be drenched.")
+# if umbrella and sunny :
+    # print("You think it's going to rain.")
+# elif not umbrella and sunny 
+    # print("You thimk you don't need an umbrella.")
+# elif umbrella and not sunny
+   #  print("It must be raining.")
+# elif not umbrella and not sunny
+    # print("You must be drenched.")
